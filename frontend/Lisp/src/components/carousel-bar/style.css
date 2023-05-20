@@ -1,0 +1,50 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.carousel-container {
+    position: relative;
+    width: 100vw;
+    height:300px;
+  }
+  .carousel-container img {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width:100%;
+    height:100%;
+    border-radius: 8px;
+    object-fit:cover;
+    transition: .3s ease-in-out;
+  }
+  .btnss{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    position:relative;
+    top:70%;
+  }
+  .prev-button,
+  .next-button {
+    transform: translateY(-50%);
+    cursor: pointer;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .prev-button {
+    width: 30px;
+    height: 30px;
+    right: 97%;
+  
+  }
+  .next-button {
+    top:0px;
+    left:95%;
+     width: 30px;
+    height: 30px;
+  
+  }
+  

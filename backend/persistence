@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "f41a015e-5b5d-4a48-bad9-132e393c6fd5",
+    "username": "kolade Mikail",
+    "email": "kolade@gmail.com",
+    "password": "LP$2b$10$rehjmrdH5/HRHHijAWKJo.HvstoKBUjvzxTJBZnFigF3rOhjqTqmi",
+    "phonenumber": "09056062230",
+    "createdAt": 1682836311262,
+    "followers": [],
+    "following": [],
+    "posts": [],
+    "type": "User"
+  },
+  {
+    "_id": "79c73019-ff26-4b37-a40a-b16112dbd09e",
+    "username": "balkis Mikail",
+    "email": "balkis@gmail.com",
+    "password": "LP$2b$10$xy1m4ogOzaQPshfiwalAOOgbO1NftSg8XjXwFnYJ5a60iQCOrul7.",
+    "phonenumber": "090786545",
+    "createdAt": 1682957212023,
+    "followers": [],
+    "following": [],
+    "posts": [],
+    "avatar": "",
+    "bio": "",
+    "type": "User"
+  },
+  {
+    "_id": "616f6a36-9b67-426f-a731-21c0e7828f43",
+    "username": "mukail",
+    "email": "mk@gmail.com",
+    "password": "LP$2b$10$pzE0mKFnFaWjMy.nvHoxeeWBygwEQdv4EME5qfmS3PEyuKLJktTc.",
+    "phonenumber": "090987654",
+    "createdAt": 1682966642527,
+    "followers": [],
+    "following": [],
+    "posts": [],
+    "avatar": "",
+    "bio": "",
+    "type": "User"
+  },
+  {
+    "_id": "612eac75-519b-495f-99c0-e70defc4fd1e",
+    "username": "arafat mikail",
+    "email": "arafat@gmail.com",
+    "password": "LP$2b$10$8TH2DO0B9.D7EkV6ZXF3DuTDK0TUm7TwCfLyICW6Q/5ytUJzRF5oO",
+    "phonenumber": "0909654345",
+    "createdAt": 1682967568753,
+    "followers": [],
+    "following": [],
+    "posts": [],
+    "avatar": "",
+    "bio": "",
+    "type": "User"
+  },
+  {
+    "_id": "73edb27c-6f9b-40a4-adf2-2e59fff96d38",
+    "comment": [],
+    "likes": [],
+    "savedBy": [],
+    "image": "",
+    "postedBy": "f41a015e-5b5d-4a48-bad9-132e393c6fd5",
+    "createdAt": 1683313925384,
+    "type": "Post"
+  }
+]
