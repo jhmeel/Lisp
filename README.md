@@ -1,4 +1,4 @@
-# Lisp
+![Lisp](./frontend/Lisp/src/assets/logo/lisp.png)
 
 A blog application that allow users to create an account, express their thoughts with words for publication and connect with other writers.
 
