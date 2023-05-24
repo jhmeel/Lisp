@@ -1,5 +1,6 @@
 # dependencies
 /fronted/Lisp/node_modules
+.gitignore
 /backend/node_modules
-
+/backend/.env
 /backend/persistence
